@@ -1,3 +1,2 @@
 Our first file.
-Working on test-branch.
 This is some important piece of code.
