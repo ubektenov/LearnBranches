@@ -1,3 +1,0 @@
-Our first file.
-This is some important piece of code.
-Another line of code
