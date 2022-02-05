@@ -8,3 +8,5 @@ Git pull = git fetch + git merge
 
 Now let's see how git fetch works.
 It will not merge or apply the remote changes to our local repo/branch.
+
+Let's see the changes before merging them to the branch.
