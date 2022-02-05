@@ -1,3 +1,7 @@
 Learning how to revert changes.
 Working on a test case.
 Learning how to resolve conflicts
+
+Learning how git fetch and git pull work.
+Git fetch just fetches the changes and does not apply them to local repo.
+Git pull = git fetch + git merge
