@@ -5,3 +5,5 @@ More important code.
 More work done.
 My team mate's code!
 Another sdet added some code.
+
+Demo of git merge command. Going to merge main branch changes into feature/branch.
