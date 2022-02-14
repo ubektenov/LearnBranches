@@ -1,3 +1,3 @@
 Learning how to revert changes.
-Working on an old test case.
+Working on a new test case.
 Learning how to resolve conflicts
